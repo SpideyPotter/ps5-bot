@@ -1,0 +1,10 @@
+Generated with the built-in image_gen tool.
+
+Create a polished, technically accurate landscape README infographic for an ESP32 robot controlled with a white and black Sony PS5 DualSense controller. Title exact: "PS5 ROBOT CONTROLS". White/light gray background, dark navy typography, teal and orange accents, crisp professional product illustration, generous margins, highly legible labels. Central large front-facing DualSense controller with correctly positioned left analog stick lower-left, square button on the left of the right-hand face-button cluster, physical shoulder controls shown accurately. Include a smaller rear/top-edge inset above the front view so L2 (left trigger as held by player), R2 (right trigger), and R1 (right bumper in front of R2) can be identified unambiguously. Use precise leader lines with endpoint dots to these FIVE active controls only, no crossing lines.
+Exact callouts:
+"L2 — REVERSE" with subtitle "Press further for more speed"
+"R2 — FORWARD" with subtitle "Press further for more speed"
+"R1 — BOOST" with subtitle "Hold for full-speed forward override"
+"LEFT STICK — STEER" with subtitle "Left / right: steer while driving" and second subtitle "Triggers released: turn in place"
+"SQUARE — FLIP FRONT" with subtitle "Tap to swap the driving front"
+Callout lines must terminate on correct buttons, never confuse R1 with R2 or the left stick with D-pad. Do not imply stick up/down drives. Do not label other buttons as functions. Bottom slim footer exact text: "Release triggers + center stick + release R1 = STOP" and below it "Starts with flipped front • Bluetooth disconnect stops motors". Small optional technical badge "1 kHz PWM • 8-bit speed". Do not mention acceleration ramps (code has none), app, Ferrari, HAAS, repositories, pairing steps, or emergency-stop button. Anatomical fidelity to DualSense. High quality readable instructional image, not a photograph of printed paper.

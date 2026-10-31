@@ -1,0 +1,10 @@
+Edited with the built-in image_gen tool using the user-supplied blue controller diagram as reference.
+
+Edit the supplied blue PS5 controller line-art diagram into our robot control mapping. Preserve the white DualSense outline, striped blue backdrop, ZackslY GAME ASSETS creator branding at top left and the original CC BY badge at bottom right. Keep all controller anatomy and button symbols accurate. Change the top-right subtitle from BUTTON ICONS & CONTROLS to ROBOT CONTROL LAYOUT, retaining PLAYSTATION 5 heading.
+Replace unused side icon columns and unused callout lines with only FIVE clearly readable callouts, with white leader lines ending at the correct controls. Never point a callout at a wrong control. Keep artwork uncluttered; use dark navy label panels and white/orange type for contrast.
+Top left L2 trigger callout: "L2 — REVERSE" / "Press further for more speed". The left shoulder inset may retain L1 for anatomy but clearly mark L1 unused or leave it unlabeled; reverse belongs only to L2.
+Top right shoulder inset two separate callouts: "R2 — FORWARD" / "Press further for more speed" AND "R1 — BOOST" / "Hold for full-speed forward override". Connect R1 and R2 labels to their corresponding distinct inset shapes.
+Lower left callout with line ending on the LEFT ANALOG STICK center, not D-pad or handle: "LEFT STICK — STEER" / "Left / right while driving" / "Triggers released: turn in place".
+Right middle callout with line ending on SQUARE face button (left of the right face-button cluster): "SQUARE — FLIP FRONT" / "Tap to swap the driving front".
+No functional callouts for D-pad, other face buttons, touchpad, right stick or menu buttons. Remove all their extraneous leader lines. Do not imply left stick up/down controls throttle.
+At bottom in space clear of attribution badge place a small readable footer: "Release triggers + center stick + release R1 = STOP" and "Starts with flipped front • Bluetooth disconnect stops motors". Keep creator branding and CC BY attribution readable and intact. This is a precise instructional edit based on existing robot code. No acceleration ramp claims.
